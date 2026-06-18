@@ -59,7 +59,6 @@ flowchart TD
     CIB_02["CIB_02<br/>Durante los últimos 6 meses, ¿considera que en esta entidad..."]
     CIB_03["CIB_03<br/>Durante los últimos 6 meses, ¿cómo evaluaría la preparación..."]
     CIB_04["CIB_04<br/>Durante los últimos 6 meses, ¿su área o entidad ha sufrido ..."]
-    END(["END"])
     CAR_01 --> CAR_02
     CAR_02 --> CAR_03
     CAR_03 --> CAR_04
